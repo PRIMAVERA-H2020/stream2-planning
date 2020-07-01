@@ -11,7 +11,7 @@ requested. A value of 1 means that this variable has been requested once from
 a single model for a single experiment. 7 could mean that this variable had 
 been requested from all models for a single experiment, or that the same 
 variable from one model and experiment has been requested by seven different 
-people. The name is in the form "var-name_table-name"”" and the table name 
+people. The name is in the form "var-name_table-name" and the table name 
 includes the frequency of that variable. The variable's standard name is 
 included in the third column.
 
@@ -50,6 +50,10 @@ hash.
 Identify the Stream 1 and 2 data in the DMT and calculate the proportion of 
 data that had been retrieved in terms of the number of datasets and the storage 
 space.
+
+### stream1_volumes.ipynb
+
+Look at the actual and planned volumes of Stream 1 highresSST-present data.
 
 ### stream1_high_freq.ipynb
 
