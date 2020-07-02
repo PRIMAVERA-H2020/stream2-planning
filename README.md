@@ -55,6 +55,11 @@ space.
 
 Look at the actual and planned volumes of Stream 1 highresSST-present data.
 
+### file_density.ipynb
+
+Look at the desnity of data in files to see how many bytes are required to store 
+each data point.
+
 ### stream1_high_freq.ipynb
 
 Estimate the volume required to store the Stream 2 proposed simulations for 
